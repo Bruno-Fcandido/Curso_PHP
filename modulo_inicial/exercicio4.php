@@ -10,5 +10,4 @@ echo"Este e o numero positivo $A\n";
 echo"Este e o numero negativo $B\n";
 
 
-
 ?>
